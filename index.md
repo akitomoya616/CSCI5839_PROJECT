@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CSCI 5839 Project
 
 You can use the [editor on GitHub](https://github.com/akitomoya616/CSCI5839_PROJECT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,6 +32,22 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akitomoya616/CSCI5839_PROJECT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Project Name
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+name
+
+### Description
+
+description
+
+### Team Members
+
+Sitong Lu [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]%20Question%20About%20Your%20CSCI%205839%20Project)
+
+### Project Deliverables
+
+1st deliverable
+
+2nd deliverable
+
+3rd deliverable
