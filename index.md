@@ -12,13 +12,8 @@ _NewsMe_ is a mobile application that helps users to get the different types of 
 Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]%20Question%20About%20Your%20CSCI%205839%20Project)
 
 ### Project Deliverables
-
-#### 1st deliverable
 9/4/2021 [Proposal](https://akitomoya616.github.io/CSCI5839_PROJECT/proposal.pdf)
 
-#### 2nd deliverable
-
-#### 3rd deliverable
 
 
 
