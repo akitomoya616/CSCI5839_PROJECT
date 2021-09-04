@@ -17,7 +17,7 @@ Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]
 
 
 
-**Bold** and _Italic_ and `Code` text
+
 
 
 
@@ -43,3 +43,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+**Bold** and _Italic_ and `Code` text
