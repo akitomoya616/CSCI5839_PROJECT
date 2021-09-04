@@ -14,11 +14,11 @@ Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]
 ### Project Deliverables
 
 #### 1st deliverable
-[Proposal](https://akitomoya616.github.io/CSCI5839_PROJECT/proposal)
+9/4/2021 [Proposal](https://akitomoya616.github.io/CSCI5839_PROJECT/proposal)
 
-####2nd deliverable
+#### 2nd deliverable
 
-####3rd deliverable
+#### 3rd deliverable
 
 
 
