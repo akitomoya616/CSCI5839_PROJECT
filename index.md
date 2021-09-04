@@ -13,11 +13,12 @@ Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]
 
 ### Project Deliverables
 
-1st deliverable
+#### 1st deliverable
+[Proposal](https://akitomoya616.github.io/CSCI5839_PROJECT/proposal)
 
-2nd deliverable
+####2nd deliverable
 
-3rd deliverable
+####3rd deliverable
 
 
 
@@ -47,8 +48,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akitomoya616/CSCI5839_PROJECT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
