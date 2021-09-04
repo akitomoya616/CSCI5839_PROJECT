@@ -1,8 +1,29 @@
 ## CSCI 5839 Project
 
-You can use the [editor on GitHub](https://github.com/akitomoya616/CSCI5839_PROJECT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project Name
+_NewsMe_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
+
+NewsMe is a mobile application that helps users to get the different types of timely information they each need more efficiently by collecting and pushing news and topics of interest to the user from various social platforms, which are also set by user him/herself, into just one application on their phones.
+
+### Team Members
+
+Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]%20Question%20About%20Your%20CSCI%205839%20Project)
+
+### Project Deliverables
+
+1st deliverable
+
+2nd deliverable
+
+3rd deliverable
+
+
+
+**Bold** and _Italic_ and `Code` text
+
+
 
 ### Markdown
 
@@ -31,23 +52,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akitomoya616/CSCI5839_PROJECT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Project Name
-
-name
-
-### Description
-
-description
-
-### Team Members
-
-Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]%20Question%20About%20Your%20CSCI%205839%20Project)
-
-### Project Deliverables
-
-1st deliverable
-
-2nd deliverable
-
-3rd deliverable
