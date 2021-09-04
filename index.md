@@ -42,7 +42,7 @@ description
 
 ### Team Members
 
-Sitong Lu [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]%20Question%20About%20Your%20CSCI%205839%20Project)
+Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]%20Question%20About%20Your%20CSCI%205839%20Project)
 
 ### Project Deliverables
 
