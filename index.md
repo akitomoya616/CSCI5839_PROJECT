@@ -5,7 +5,7 @@ NewsMe
 
 ### Description
 
-_NewsMe_ is a mobile application that helps users to get the different types of timely information they each need more efficiently by collecting and pushing news and topics of interest to the user from various social platforms, which are also set by user him/herself, into just one application on their phones.
+_NewsMe_ is a mobile application that helps users to get the different types of timely information related to plastic models and figures they each need more efficiently by collecting and pushing news and posts made by individual accounts to the user from various social media platforms, which are also set by user him/herself, into just one application on their phones.
 
 ### Team Members
 
