@@ -15,7 +15,7 @@ Ian Wilkins: [Ian.wilkins@colorado.edu](mailto:Ian.wilkins@colorado.edu?subject=
 
 ### Project Deliverables
 - 9/4/2021 [Proposal](https://akitomoya616.github.io/CSCI5839_PROJECT/proposal.pdf)
-- 9/11 2021 [Detailed Proposal/Summary of Group Meeting](https://docs.google.com/document/d/14qLbGN13xTc7TP0LdM7coahMtoog9Xwai3sWFWhtbeM/edit?usp=sharing)
+- 9/10 2021 [Detailed Proposal/Summary of Group Meeting](https://docs.google.com/document/d/14qLbGN13xTc7TP0LdM7coahMtoog9Xwai3sWFWhtbeM/edit?usp=sharing)
 
 
 
