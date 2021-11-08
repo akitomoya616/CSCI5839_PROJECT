@@ -14,8 +14,5 @@ Sitong Lu: [silu0223@colorado.edu](mailto:silu0223@colorado.edu?subject=[GitHub]
 ### Project Deliverables
 - 9/4/2021 [Proposal](https://akitomoya616.github.io/CSCI5839_PROJECT/proposal.pdf)
 - NOT IN USE 9/10 2021 [Detailed Proposal/Summary of Group Meeting](https://docs.google.com/document/d/14qLbGN13xTc7TP0LdM7coahMtoog9Xwai3sWFWhtbeM/edit?usp=sharing)
-
-
-
-
+- 10/21/2021 [Prototype](https://www.figma.com/proto/Q6frTbws8q8O3tCfAkyvdt/Untitled?node-id=2%3A7&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A7&show-proto-sidebar=1)
 
